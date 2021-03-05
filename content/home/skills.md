@@ -25,9 +25,9 @@ feature:
   icon_pack: fas
   name: Statistics
 - description: 50%
-  icon: 
+  icon: dna
   icon_pack: fab
-  name: 
+  name: genomics
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
