@@ -21,16 +21,6 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: 274573863@qq.com
-address:
-  street: 450 Serra Mall
-  city: 
-  region: CA
-  postcode: '430070'
-  country: China
-  country_code: US
-coordinates:
-  latitude: '30.58203'
-  longitude: '114.02919'
 contact_links:
   - icon: github
     icon_pack: fab
