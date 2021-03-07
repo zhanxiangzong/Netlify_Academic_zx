@@ -24,6 +24,10 @@ date_format: Jan 2006
 experience:
   - title: No work experience at the moment
     company: ''
+    company_url: ''
+    location: ''
     date_start: ''
+    date_end: ''
     description: ''
+
   
