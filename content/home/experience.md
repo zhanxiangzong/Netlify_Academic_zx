@@ -23,11 +23,11 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: No work experience at the moment
-    company: ''
-    company_url: ''
-    location: ''
-    date_start: ''
-    date_end: ''
-    description: ''
+    company: '-'
+    company_url: '-'
+    location: '-'
+    date_start: '-'
+    date_end: '-'
+    description: '-'
 
   
